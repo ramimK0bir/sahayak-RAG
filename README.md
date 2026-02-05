@@ -107,7 +107,7 @@ python app.py
    Open your browser and navigate to `http://localhost:5000`
 
 
-## **Installation using Steps**
+## **Installation steps using docker**
 
 1. **Clone the repository**
 
