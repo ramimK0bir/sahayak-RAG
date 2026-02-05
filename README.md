@@ -118,17 +118,17 @@ cd sahayak-RAG
 
 2. **Build docker image**
 ```bash
-docker build -t sahayak-rag:0.0.0 .
+docker build -t sahayak-rag:0.0.1 .
 ```
 
 3. **Run docker image**
 ```bash
-docker run -p5000:5000 sahayak-rag:0.0.0
+docker run -p5000:5000 sahayak-rag:0.0.1
 ```
 or 
 4. **Run docker image with persistent data folder**
 ```bash
-docker run -v ./data:app/sahayak-RAG/data -p5000:5000 sahayak-rag:0.0.0
+docker run -v ./data:app/sahayak-RAG/data -p5000:5000 sahayak-rag:0.0.1
 ```
 
 5. **Access the platform**
