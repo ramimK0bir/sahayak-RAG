@@ -112,7 +112,7 @@ python app.py
 1. **Clone the repository**
 
 ```bash
-git clone -b https://github.com/ramimK0bir/sahayak-RAG.git
+git clone -b dockerize https://github.com/ramimK0bir/sahayak-RAG.git
 cd sahayak-RAG
 ```
 
