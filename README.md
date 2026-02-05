@@ -128,7 +128,7 @@ docker run -p5000:5000 sahayak-rag:0.0.1
 or 
 4. **Run docker image with persistent data folder**
 ```bash
-docker run -v $(pwd)/data:app/sahayak-RAG/data -p5000:5000 sahayak-rag:0.0.1
+docker run -v $(pwd)/data:/app/sahayak-RAG/data -p5000:5000 sahayak-rag:0.0.1
 ```
 
 5. **Access the platform**
