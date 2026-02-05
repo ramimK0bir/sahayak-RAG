@@ -106,6 +106,19 @@ python app.py
 4. **Access the platform**
    Open your browser and navigate to `http://localhost:5000`
 
+
+## **Installation using Steps**
+bash```
+docker build -t sahayak-rag:0.0.0 .
+docker run -p5000:5000 sahayak-rag:0.0.0 
+```
+
+
+
+
+
+
+
 ## 🎯 Core Functionality
 
 ### Intelligent Job Search
