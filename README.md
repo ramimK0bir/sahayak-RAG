@@ -132,7 +132,7 @@ docker run -v $(pwd)/data:/app/sahayak-RAG/data -p5000:5000 sahayak-rag:0.0.1
 ```
 
 5. **Access the platform**
-   Open your browser and navigate to `http://localhost:5000`
+   Open your browser and navigate to [localhost:5000](http://localhost:5000)
 
 
 
