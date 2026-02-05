@@ -56,7 +56,6 @@ Sahayak is a revolutionary multilingual job portal specifically designed for blu
 
 ```
 sahayak/
-|__ Dockerfile             # Build docker image
 ├── app.py                 # Main Flask application
 ├── requirements.txt       # Python dependencies
 ├── data/
