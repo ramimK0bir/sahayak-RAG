@@ -126,17 +126,14 @@ docker build -t sahayak-rag:0.0.1 .
 docker run -p5000:5000 sahayak-rag:0.0.1
 ```
 or 
-4. **Access the platform**
-   Open your browser and navigate to [localhost:5000](http://localhost:5000)
-
-
-
-<!--
-. **Run docker image with persistent data folder**
+4. **Run docker image with persistent data folder**
 ```bash
 docker run -v $(pwd)/data:/app/sahayak-RAG/data -p5000:5000 sahayak-rag:0.0.1
 ```
--->
+5. **Access the platform**
+   Open your browser and navigate to [localhost:5000](http://localhost:5000)
+
+
 ## 🎯 Core Functionality
 
 ### Intelligent Job Search
