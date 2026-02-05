@@ -87,8 +87,8 @@ sahayak/
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
-cd sahayak
+git clone https://github.com/codeIntrovert/sahayak-RAG.git
+cd sahayak-RAG
 ```
 
 2. **Install dependencies**
