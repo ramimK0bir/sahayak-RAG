@@ -108,7 +108,8 @@ python app.py
 
 
 ## **Installation using Steps**
-bash```
+
+```bash
 docker build -t sahayak-rag:0.0.0 .
 docker run -p5000:5000 sahayak-rag:0.0.0 
 ```
